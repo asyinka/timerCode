@@ -1,0 +1,24 @@
+.timerId{
+    border: 2px solid greenyellow;
+    background-color: darkslategrey;
+    color: aliceblue;
+    padding: 5px;
+    border-radius: 25px;
+}
+#timerDisplay{
+    font-size: 75px;
+    
+    color: blueviolet;
+}
+#timerContainer{
+    background-color: black;
+    text-align: center;
+    border-radius: 25px;
+    padding: 10px;
+    width: 70vw;
+    box-sizing: border-box;
+}
+#fullContainer{
+    align-content: center;
+    justify-items: center;
+}
